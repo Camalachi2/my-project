@@ -1,2 +1,1 @@
-# my-project
-ufryfghuo
+my name is amarachi
